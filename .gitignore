@@ -1,0 +1,38 @@
+# Java
+*.class
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+
+# Java temporary files
+hs_err_pid*
+
+# Node
+node_modules/
+
+# Build files
+dist/
+
+# Application secrets
+application-local.properties
